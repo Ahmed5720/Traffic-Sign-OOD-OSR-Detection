@@ -5,6 +5,8 @@ This project explores out-of-distribution (OOD) detection as a crucial technique
 
 Traffic sign recognition is a specialized case of the broader object recognition problem, which plays a vital role in autonomous driving. To simplify our study, we focus specifically on traffic sign recognition, as it allows for smaller datasets and reduced training time while still providing insights that may generalize to broader object recognition challenges. By integrating OOD detection techniques, we aim to enhance model reliability and safety in real-world driving conditions.
 
+![Demonstration of OOD and OOS](figure11.png)
+
 ## Project Structure
 ```
 ├── data/                   # Dataset used for training and evaluation
